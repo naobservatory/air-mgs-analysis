@@ -1,0 +1,99 @@
+Tax name	Common name	Abbreviation	Name to use
+Simplexvirus humanalpha1	Herpes simplex virus 1	HSV1	Herpes simplex virus 1
+Simplexvirus humanalpha2	Herpes simplex virus 2	HSV2	Herpes simplex virus 2
+Varicellovirus humanalpha3	Varicella-Zoster Virus	VZV	Varicella-Zoster Virus
+Rubivirus rubellae	Rubella virus	RuV	Rubella virus
+Roseolovirus humanbeta6a	Human herpesvirus 6A	HHV6A	Human herpesvirus 6A
+Roseolovirus humanbeta6b	Human herpesvirus 6B	HHV6B	Human herpesvirus 6B
+Roseolovirus humanbeta7	Human herpesvirus 7	HHV7	Human herpesvirus 7
+Monkeypox virus	Monkeypox virus	MPV	Monkeypox virus
+Lymphocryptovirus humangamma4	Epstein-Barr virus	EBV	Epstein-Barr virus
+Rhinovirus A	Rhinovirus A	RV-A	Rhinovirus A
+Rhinovirus C	Rhinovirus C	RV-C	Rhinovirus C
+Respirovirus pneumoniae	Human parainfluenza virus 3	HPIV3	Human parainfluenza virus 3
+Orthopneumovirus hominis	Human respiratory syncytial virus	HRSV	Human respiratory syncytial virus
+Alphainfluenzavirus influenzae	Influenza A virus	IAV	Influenza A virus
+Gammainfluenzavirus influenzae	Influenza C virus	ICV	Influenza C virus
+Human coronavirus HKU1	Human coronavirus HKU1	HCoV-HKU1	Human coronavirus HKU1
+Human coronavirus 229E	Human coronavirus 229E	HCoV-229E	Human coronavirus 229E
+Metapneumovirus hominis	Human metapneumovirus	HMPV	Human metapneumovirus
+Human mastadenovirus A 			Human mastadenovirus A 
+Human mastadenovirus B 			Human mastadenovirus B 
+Human mastadenovirus C			Human mastadenovirus C
+Human mastadenovirus D			Human mastadenovirus D
+Human mastadenovirus E			Human mastadenovirus E
+Human mastadenovirus F			Human mastadenovirus F
+Human mastadenovirus G			Human mastadenovirus G
+Enterovirus A	Enterovirus A	EV-A	Enterovirus A
+Enterovirus B	Enterovirus B	EV-B	Enterovirus B
+Norwalk virus	Norovirus	NV	Norovirus
+Hepacivirus hominis	Hepatitis C virus	HCV	Hepatitis C virus
+Human bocavirus	Human bocavirus	HBoV	Human bocavirus
+Bocaparvovirus primate1	Human bocavirus 1	HBoV1	Human bocavirus 1
+Bocaparvovirus primate2	human bocavirus 2c	HBoV2c	human bocavirus 2c
+Human immunodeficiency virus 1	Human immunodeficiency virus 1	HIV-1	Human immunodeficiency virus 1
+Molluscum contagiosum virus	Molluscum contagiosum virus	MCV	Molluscum contagiosum virus
+Cytomegalovirus humanbeta5	Human cytomegalovirus	HCMV	Human cytomegalovirus
+Alphapolyomavirus quintihominis	Merkel cell polyomavirus	MCPyV	Merkel cell polyomavirus
+Alphapolyomavirus quardecihominis	LI polyomavirus	LIPyV	LI polyomavirus
+Alphapolyomavirus octihominis	Trichodysplasia spinulosa-associated polyomavirus	TSPyV	Trichodysplasia spinulosa-associated polyomavirus
+Betapolyomavirus tertihominis	KI polyomavirus	KIPyV	KI polyomavirus
+Betapolyomavirus secuhominis	JC polyomavirus	JCPyV	JC polyomavirus
+Betapolyomavirus quartihominis	WU polyomavirus	WUPyV	WU polyomavirus
+Betapolyomavirus hominis	BK polyomavirus	BKPyV	BK polyomavirus
+Deltapolyomavirus undecihominis	STL polyomavirus	STLPyV	STL polyomavirus
+MX polyomavirus			MX polyomavirus
+Deltapolyomavirus sextihominis	Human polyomavirus 6	HPyV6	Human polyomavirus 6
+Deltapolyomavirus septihominis	Human polyomavirus 7	HPyV7	Human polyomavirus 7
+Deltapolyomavirus decihominis	MW polyomavirus	MWPyV	MW polyomavirus
+Human papillomavirus type 203	Human papillomavirus type 203		Human papillomavirus type 203
+Human papillomavirus KC5	Human papillomavirus KC5	HPV KC5	Human papillomavirus KC5
+Alphapapillomavirus 1			Alphapapillomavirus 1
+Alphapapillomavirus 2			Alphapapillomavirus 2
+Alphapapillomavirus 3			Alphapapillomavirus 3
+Alphapapillomavirus 4			Alphapapillomavirus 4
+Alphapapillomavirus 5			Alphapapillomavirus 5
+Alphapapillomavirus 6			Alphapapillomavirus 6
+Alphapapillomavirus 7			Alphapapillomavirus 7
+Alphapapillomavirus 8			Alphapapillomavirus 8
+Alphapapillomavirus 9			Alphapapillomavirus 9
+Alphapapillomavirus 10			Alphapapillomavirus 10
+Alphapapillomavirus 11			Alphapapillomavirus 11
+Alphapapillomavirus 13			Alphapapillomavirus 13
+Alphapapillomavirus 14			Alphapapillomavirus 14
+Betapapillomavirus 1			Betapapillomavirus 1
+Betapapillomavirus 2			Betapapillomavirus 2
+Betapapillomavirus 3	Human papillomavirus (49, 75, 76, 115)	HPV 49,75,76,115	Betapapillomavirus 3
+Betapapillomavirus 4	Human papillomavirus 92	HPV 92	Betapapillomavirus 4
+Betapapillomavirus 5	Human papillomavirus (96, 150)	HPV 95,150	Betapapillomavirus 5
+Gammapapillomavirus sp.	Human papillomavirus sp.	HPV	Human papillomavirus sp.
+Gammapapillomavirus 1	Human papillomavirus (4, 65, 95, 173, 205)	HPV 4,65,95,173,205	Gammapapillomavirus 1
+Gammapapillomavirus 2	Human papillomavirus (48, 200)	HPV 48,200	Gammapapillomavirus 2
+Gammapapillomavirus 3	Human papillomavirus 50	HPV 50	Gammapapillomavirus 3
+Gammapapillomavirus 4	Human papillomavirus 60	HPV 60	Gammapapillomavirus 4
+Gammapapillomavirus 5	Human papillomavirus 88	HPV 88	Gammapapillomavirus 5
+Gammapapillomavirus 6	Human papillomavirus (101, 103, 108)	HPV 101,103,108	Gammapapillomavirus 6
+Gammapapillomavirus 7	Human papillomavirus (109, 123, 134, 138, 139, 149, 155, 170)	HPV 109,123,134,138,139,149,155,170	Gammapapillomavirus 7
+Gammapapillomavirus 8	Human papillomavirus (112, 119, 147, 164, 168)	HPV 112,119,147,164,168	Gammapapillomavirus 8
+Gammapapillomavirus 9	Human papillomavirus (116, 129)	HPV 116,129	Gammapapillomavirus 9
+Gammapapillomavirus 10	Human papillomavirus (121, 130, 133, 142, 180)	HPV 121,130,133,142,180)	Gammapapillomavirus 10
+Gammapapillomavirus 11	Human papillomavirus (126, 136, 140, 141, 154, 169, 171, 202)	HPV 126,136,140,141,154,169,171,202	Gammapapillomavirus 11
+Gammapapillomavirus 12	Human papillomavirus (127, 132, 148, 157, 158, 165, 199)	HPV 127,132,148,157,158,165,199	Gammapapillomavirus 12
+Gammapapillomavirus 13	Human papillomavirus (128, 153)	HPV 128,153	Gammapapillomavirus 13
+Gammapapillomavirus 14	Human papillomavirus 131	HPV 131	Gammapapillomavirus 14
+Gammapapillomavirus 15	Human papillomavirus (135, 146, 179)	HPV 135,146,179	Gammapapillomavirus 15
+Gammapapillomavirus 16	Human papillomavirus 137	HPV 137	Gammapapillomavirus 16
+Gammapapillomavirus 17	Human papillomavirus 144	HPV 144	Gammapapillomavirus 17
+Gammapapillomavirus 18	Human papillomavirus 156	HPV 156	Gammapapillomavirus 18
+Gammapapillomavirus 19	Human papillomavirus (161, 162, 166)	HPV 161,162,166	Gammapapillomavirus 19
+Gammapapillomavirus 20	Human papillomavirus 163	HPV 163	Gammapapillomavirus 20
+Gammapapillomavirus 21	Human papillomavirus 167	HPV 167	Gammapapillomavirus 21
+Gammapapillomavirus 22	Human papillomavirus 172	HPV 172	Gammapapillomavirus 22
+Gammapapillomavirus 23	Human papillomavirus 175	HPV 175	Gammapapillomavirus 23
+Gammapapillomavirus 24	Human papillomavirus (178, 197)	HPV 178,197	Gammapapillomavirus 24
+Gammapapillomavirus 25	Human papillomavirus 184	HPV 184	Gammapapillomavirus 25
+Gammapapillomavirus 26	Human papillomavirus 187	HPV 187	Gammapapillomavirus 26
+Gammapapillomavirus 27	Human papillomavirus 201	HPV 201	Gammapapillomavirus 27
+Mupapillomavirus 1	Human papillomavirus 1	HPV1	Mupapillomavirus 1
+Mupapillomavirus 2	Human papillomavirus 63	HPV 63	Mupapillomavirus 2
+Mupapillomavirus 3	Human papillomavirus 204	HPV 204	Mupapillomavirus 3

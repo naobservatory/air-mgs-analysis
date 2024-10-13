@@ -1,0 +1,212 @@
+species
+Alphainfluenzavirus influenzae
+Alphapapillomavirus 1
+Alphapapillomavirus 10
+Alphapapillomavirus 11
+Alphapapillomavirus 13
+Alphapapillomavirus 14
+Alphapapillomavirus 2
+Alphapapillomavirus 3
+Alphapapillomavirus 4
+Alphapapillomavirus 5
+Alphapapillomavirus 6
+Alphapapillomavirus 7
+Alphapapillomavirus 8
+Alphapapillomavirus 9
+Alphapolyomavirus octihominis
+Alphapolyomavirus quardecihominis
+Alphapolyomavirus quintihominis
+Alphatorquevirus homin24
+Alphatorquevirus homin5
+Ambidensovirus sp.
+Anelloviridae sp.
+Bandavirus dabieense
+Bat mastadenovirus A
+Bat mastadenovirus C
+Betacoronavirus 1
+Betapapillomavirus 1
+Betapapillomavirus 2
+Betapapillomavirus 3
+Betapapillomavirus 4
+Betapapillomavirus 5
+Betapolyomavirus hominis
+Betapolyomavirus quartihominis
+Betapolyomavirus secuhominis
+Betapolyomavirus tertihominis
+Betatorquevirus homini1
+Betatorquevirus homini16
+Betatorquevirus homini2
+Betatorquevirus homini3
+Betatorquevirus homini6
+Betatorquevirus homini7
+Betatorquevirus homini9
+Bocaparvovirus primate1
+Bocaparvovirus primate2
+Cardiovirus D
+Caudovirus D_HF2_7
+Caudovirus D_HF4_2
+Caudovirus D_HF5_3
+Cosavirus F
+Cowpox virus
+CrAssphage ZA
+Cytomegalovirus cercopithecinebeta5
+Cytomegalovirus humanbeta5
+Deltapolyomavirus decihominis
+Deltapolyomavirus septihominis
+Deltapolyomavirus sextihominis
+Deltapolyomavirus undecihominis
+Dependoparvovirus mammalian1
+Enterovirus A
+Enterovirus B
+Erythroparvovirus primate1
+Gammainfluenzavirus influenzae
+Gammapapillomavirus 1
+Gammapapillomavirus 10
+Gammapapillomavirus 11
+Gammapapillomavirus 12
+Gammapapillomavirus 13
+Gammapapillomavirus 14
+Gammapapillomavirus 15
+Gammapapillomavirus 16
+Gammapapillomavirus 17
+Gammapapillomavirus 18
+Gammapapillomavirus 19
+Gammapapillomavirus 2
+Gammapapillomavirus 20
+Gammapapillomavirus 21
+Gammapapillomavirus 22
+Gammapapillomavirus 23
+Gammapapillomavirus 24
+Gammapapillomavirus 25
+Gammapapillomavirus 26
+Gammapapillomavirus 27
+Gammapapillomavirus 3
+Gammapapillomavirus 4
+Gammapapillomavirus 5
+Gammapapillomavirus 6
+Gammapapillomavirus 7
+Gammapapillomavirus 8
+Gammapapillomavirus 9
+Gammapapillomavirus sp.
+Gammatorquevirus homidi1
+Gemycircularvirus HV-GcV1
+Gemycircularvirus sp.
+Gemykibivirus humas1
+Gemykibivirus humas3
+Gemykibivirus humas4
+Gemykibivirus humas5
+Gemyvongvirus humas1
+Gokushovirus WZ-2015a
+Great Island virus
+Gyrovirus homsa1
+Gyrovirus homsa2
+Hantavirus Z10
+Hepacivirus hominis
+Human DNA virus
+Human bocavirus
+Human coronavirus 229E
+Human coronavirus HKU1
+Human cosavirus
+Human fecal virus Jorvi4
+Human gokushovirus
+Human gut gokushovirus
+Human gut microviridae SH-CHD12
+Human immunodeficiency virus 1
+Human mastadenovirus A
+Human mastadenovirus B
+Human mastadenovirus C
+Human mastadenovirus D
+Human mastadenovirus E
+Human mastadenovirus F
+Human mastadenovirus G
+Human papillomavirus KC5
+Human papillomavirus type 203
+Inovirus D_HF1_11
+Inovirus D_HF2_144
+Inovirus D_HF2_82
+Inovirus D_HF34_8
+Inovirus D_HF35_23
+Inovirus D_HF38_14
+Inovirus D_HF3_10
+Inovirus D_HF3_12
+Inovirus D_HF3_19
+Inovirus D_HF3_8
+Inovirus D_HF4_79
+Inovirus D_HF4_80
+Inovirus D_HF5_49
+Inovirus D_HF5_61
+Inovirus D_HF5_75
+Inovirus D_HF6_34
+Inovirus D_HF7_9
+Iteradensovirus incertum2
+Kobuvirus aichi
+Lebombo virus
+Lymphocryptovirus humangamma4
+MX polyomavirus
+Mamastrovirus 1
+Mamastrovirus 6
+Metapneumovirus hominis
+Microviridae sp.
+Microvirus D_HF2_273
+Microvirus D_HF33_14
+Microvirus D_HF38_28
+Microvirus D_HF3_26
+Microvirus D_HF4_124
+Microvirus D_HF4_144
+Microvirus D_HF4_149
+Microvirus D_HF4_150
+Microvirus D_HF4_274
+Microvirus D_HF4_320
+Microvirus D_HF4_329
+Microvirus D_HF5_107
+Microvirus D_HF5_137
+Microvirus D_HF6_206
+Microvirus D_HF7_11
+Microvirus sp.
+Molluscum contagiosum virus
+Monkeypox virus
+Mupapillomavirus 1
+Mupapillomavirus 2
+Mupapillomavirus 3
+Murine leukemia virus
+Murine leukemia-related retroviruses
+NY_014 poxvirus
+Norwalk virus
+Nupapillomavirus 1
+Orf virus
+Orthobunyavirus guaroaense
+Orthoflavivirus kyasanurense
+Orthopneumovirus hominis
+Orthopoxvirus akhmetapox
+Oslovirus ov191
+Parechovirus A
+Phlebovirus chagresense
+Phlebovirus toroense
+Porcine type-C oncovirus
+Protoparvovirus primate3
+Respirovirus pneumoniae
+Rhadinovirus humangamma8
+Rhinovirus A
+Rhinovirus C
+Roseolovirus humanbeta6a
+Roseolovirus humanbeta6b
+Roseolovirus humanbeta7
+Rubivirus rubellae
+Senegalvirus marseillevirus
+Severe acute respiratory syndrome-related coronavirus
+Simian mastadenovirus C
+Simplexvirus humanalpha1
+Simplexvirus humanalpha2
+Simplexvirus macacinealpha1
+Simplexvirus papiinealpha2
+TTV-like mini virus
+Tanapox virus
+Torque teno virus
+Torque teno virus 16
+Torque teno virus 28
+Torque teno virus 8
+Vaccinia virus
+Varicellovirus humanalpha3
+Variola virus
+Vientovirus
+Yaba monkey tumor virus
